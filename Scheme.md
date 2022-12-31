@@ -16,4 +16,4 @@
 
 
 # Блок схема
-![Блок схема к задаче](C:\Users\Елена\Desktop\diogr.png)
+![diogr](https://user-images.githubusercontent.com/118472007/210148779-a3d48b4c-4f7f-4f61-808e-0ec3cf8eabb4.png)
