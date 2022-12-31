@@ -5,7 +5,7 @@
 */
 
 
-string[] firstArray = new string[5] {"123", "23", "hello", "world", "res"};
+string[] firstArray = new string[7] {"123", "23", "hello", "world", "res", "Helen", "hi"};
 string[] secondArray = new string[firstArray.Length];
 void SecondArray(string[] firstArray, string[] secondArray)
 {
